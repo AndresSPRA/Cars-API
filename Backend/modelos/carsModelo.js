@@ -29,7 +29,7 @@ const carSchema = new mongoose.Schema({
     idBrand: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Brand',
-        // required: true
+        required: true
     },
     fechaCreacion: {
         type: Date,
