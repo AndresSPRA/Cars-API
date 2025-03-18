@@ -1,12 +1,12 @@
-import { Router } from "express"
+import Router from "express"
 import { Car } from "../modelos/carsModelo.js";
 import { Brand } from "../modelos/brandModelo.js";
 
 const carRouter = Router()
 
-app.get("/api/autos", async (req, res) => {
+carRouter.get("/autos", async (req, res) => {
   try {
-    // Buscar todos los autos y poblar la información de la marca
+
     const cars = await Car.find().populate("idBrand", "nombreBrand");
 
     if (cars.length === 0) {
