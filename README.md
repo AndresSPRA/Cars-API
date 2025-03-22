@@ -3,11 +3,11 @@
 **Cars-API** es un servicio backend basado en Node.js y Express que permite gestionar información sobre automóviles. Utiliza MongoDB como base de datos y está dockerizado para facilitar su despliegue.
 
 ## 📌 Características
-✅ CRUD de autos (crear, leer, actualizar, eliminar)
-✅ Conexión con MongoDB
-✅ Dockerizado con `docker-compose`
-✅ API REST con Express
-✅ Manejo de errores y logs
+CRUD de autos (crear, leer, actualizar, eliminar)
+Conexión con MongoDB
+Dockerizado con `docker-compose`
+API REST con Express
+Manejo de errores y logs
 
 ---
 
@@ -87,6 +87,7 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 
 ## ✉️ Contacto
 📧 Email: jenifer.zazpata801@pascualbravo.edu.co - andres.serpa259@pascualbravo.edu.co
+
 🐙 GitHub: [AndresSRPA](https://github.com/AndresSPRA) - [JeniferZapataLuna](https://github.com/JeniferZapataLuna)  
 
 🚀 **¡Contribuciones y mejoras son bienvenidas!**
