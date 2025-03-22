@@ -4,9 +4,13 @@
 
 ## 📌 Características
 CRUD de autos (crear, leer, actualizar, eliminar)
+
 Conexión con MongoDB
+
 Dockerizado con `docker-compose`
+
 API REST con Express
+
 Manejo de errores y logs
 
 ---
