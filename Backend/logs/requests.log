@@ -112,3 +112,15 @@
 [2025-03-21T23:41:15.430Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
 [2025-03-21T23:41:15.450Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
 [2025-03-21T23:41:15.473Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:03.861Z] GET /api/getCar - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:05.859Z] GET /api/getCar - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:05.934Z] GET /api/filterCars?modelo=Toyota - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:05.963Z] GET /api/filterCars?modelo=Ferrari - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:05.993Z] GET /api/filterCars?modelo=Toyota - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:06.187Z] POST /api/createCar - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:06.259Z] POST /api/createCar - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:06.396Z] POST /api/createCar - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:06.416Z] POST /api/createCar - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:08.521Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:08.592Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
+[2025-03-21T23:57:08.639Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
