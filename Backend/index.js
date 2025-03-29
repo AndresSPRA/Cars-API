@@ -4,8 +4,10 @@ import { MONGO_URL, PUERTO } from "./config.js";
 import carRouter from "./Routes/carros.js"
 import brandRouter from "./Routes/marca.js";
 import logRequest from "./middlewares/logger.js";
+import cors from "cors";
 
 const app = express()
+app.use(cors({ origin: "http://localhost:5173" }));
 app.use(express.json())
 
 app.use(logRequest);

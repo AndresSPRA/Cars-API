@@ -124,3 +124,16 @@
 [2025-03-21T23:57:08.521Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
 [2025-03-21T23:57:08.592Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
 [2025-03-21T23:57:08.639Z] POST /api/createBrand - IP: ::ffff:127.0.0.1
+[2025-03-29T04:00:57.875Z] OPTIONS /cars - IP: ::1
+[2025-03-29T04:01:09.818Z] OPTIONS /cars - IP: ::1
+[2025-03-29T04:01:16.562Z] OPTIONS /cars - IP: ::1
+[2025-03-29T04:04:19.830Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:04:26.172Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:04:33.944Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:04:50.481Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:04:56.671Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:05:24.669Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:05:46.551Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:05:55.455Z] OPTIONS /api/createCar - IP: ::1
+[2025-03-29T04:09:42.629Z] POST /api/createCar - IP: ::1
+[2025-03-29T04:09:47.294Z] POST /api/createCar - IP: ::1
